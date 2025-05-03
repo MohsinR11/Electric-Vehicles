@@ -102,7 +102,7 @@ The dataset is preloaded in the workbook. To replicate, ensure your dataset incl
 
 ## 🌟 About Me
 
-Hi there! I'm **Mohsin Raza**. I’m an aspiring Data Analyst/Data Engineer.
+Hi there! I'm **Mohsin Raza**. I’m an aspiring ***Data Analyst/Business Analyst/Data Engineer/BI Developer/SQL Developer***.
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
