@@ -100,13 +100,13 @@ Tableau Desktop or Tableau Public to view and interact with the dashboard.
 
 The dataset is preloaded in the workbook. To replicate, ensure your dataset includes:  
 
-  - Vehicle details (make, model, model year, EV type)  
+  - ***Vehicle details*** (make, model, model year, EV type)  
 
-  - Geographic data (state)  
+  - ***Geographic data*** (state)  
 
-  - Performance metrics (electric range)  
+  - ***Performance metrics*** (electric range)  
 
-  - Eligibility data (CAFV eligibility status)
+  - ***Eligibility data*** (CAFV eligibility status)
 
 ---
 
