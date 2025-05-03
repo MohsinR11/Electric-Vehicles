@@ -9,13 +9,10 @@ Welcome to the Electric Vehicle Data Analysis dashboard! 🔋 This Tableau proje
 
 ## 🔑 Key Metrics
 
-🚗 ****Total Vehicles****: **1,50,413**  
-
-📏 ****Average Electric Range****: **67.83 miles**  
-
-🔌 ****Total BEV Vehicles****: **1,16,745 (77.62% of total)** 
-
-🔋 ****Total PHEV Vehicles****: **33,668 (22.38% of total)**
+- 🚗 ****Total Vehicles****: **1,50,413**  
+- 📏 ****Average Electric Range****: **67.83 miles**  
+- 🔌 ****Total BEV Vehicles****: **1,16,745 (77.62% of total)** 
+- 🔋 ****Total PHEV Vehicles****: **33,668 (22.38% of total)**
 
 ---
 
@@ -28,37 +25,32 @@ The dashboard is designed to help you explore EV data with ease. Use the filters
 
 ### 1. Total Vehicles by Model Year 📅  
 
-A histogram showing the number of EVs by model year (2010–2024).  
-
-📈 ***Trend***: Peak adoption in 2023 with 37.1K vehicles, with an average of 10.7K vehicles per year.
+- A histogram showing the number of EVs by model year (2010–2024).  
+- 📈 ***Trend***: Peak adoption in 2023 with 37.1K vehicles, with an average of 10.7K vehicles per year.
 
 
 ### 2. Total Vehicles by State 🗺️  
 
-A U.S. map highlighting the distribution of EVs across states.  
-
-🌎 ***Highlight***: Washington leads with 1,50,082 vehicles, while other states have significantly fewer (e.g., North Carolina with 35).
+- A U.S. map highlighting the distribution of EVs across states.  
+- 🌎 ***Highlight***: Washington leads with 1,50,082 vehicles, while other states have significantly fewer (e.g., North Carolina with 35).
 
 
 ### 3. Top 10 Total Vehicles by Make 🏭  
 
-Bar chart showing the top 10 EV manufacturers by vehicle count.  
-
-🏆 ***Leader***: Tesla dominates with 69,929 vehicles (46.47%), followed by Chevrolet with 12,024.
+- Bar chart showing the top 10 EV manufacturers by vehicle count.  
+- 🏆 ***Leader***: Tesla dominates with 69,929 vehicles (46.47%), followed by Chevrolet with 12,024.
 
 
 ### 4.Total Vehicles by CAFV Eligibility ✅  
 
-Pie chart showing CAFV eligibility breakdown.  
-
-⚖️ ***Breakdown***: 69.7% are eligible, 17.8% are not eligible, and 12.5% have unknown eligibility.
+- Pie chart showing CAFV eligibility breakdown.  
+- ⚖️ ***Breakdown***: 69.7% are eligible, 17.8% are not eligible, and 12.5% have unknown eligibility.
 
 
 ### 5. Total Vehicles by Model 🚘  
 
-Table listing the top models with their make, EV type, vehicle count, and percentage of the total.  
-
-🔝 ***Top Model***: Tesla Model 3 leads with 27,708 vehicles (18.42%), followed by Tesla Model Y with 20,901.
+- Table listing the top models with their make, EV type, vehicle count, and percentage of the total.  
+- 🔝 ***Top Model***: Tesla Model 3 leads with 27,708 vehicles (18.42%), followed by Tesla Model Y with 20,901.
 
 ---
 
@@ -74,23 +66,18 @@ Here’s a glimpse of the dashboard! 🖼️
 
 Customize your analysis with these filters:  
 
-🚘 ***Model***: All or specific models (e.g., Model 3, Leaf, etc.)  
-
-🔌 ***EV Type***: All, BEV (Battery Electric Vehicle), or PHEV (Plug-in Hybrid Electric Vehicle) 
-
-🌍 ***State***: All or specific U.S. states  
-
-✅ ***CAFV Eligibility***: All, Eligible, Not Eligible, or Eligibility Unknown
+- 🚘 ***Model***: All or specific models (e.g., Model 3, Leaf, etc.)  
+- 🔌 ***EV Type***: All, BEV (Battery Electric Vehicle), or PHEV (Plug-in Hybrid Electric Vehicle) 
+- 🌍 ***State***: All or specific U.S. states  
+- ✅ ***CAFV Eligibility***: All, Eligible, Not Eligible, or Eligibility Unknown
 
 ---
 
 ## 🚀 Usage
 
-***Open the Dashboard***: Launch the Tableau workbook in Tableau Desktop or Tableau Public. 📂  
-
-***Apply Filters***: Use the dropdowns to filter by Model, EV Type, State, or CAFV Eligibility. 🎛️  
-
-***Interact***: Hover over charts for details or click to drill down. 🖱️
+- ***Open the Dashboard***: Launch the Tableau workbook in Tableau Desktop or Tableau Public. 📂  
+- ***Apply Filters***: Use the dropdowns to filter by Model, EV Type, State, or CAFV Eligibility. 🎛️  
+- ***Interact***: Hover over charts for details or click to drill down. 🖱️
 
 ---
 
@@ -101,11 +88,8 @@ Tableau Desktop or Tableau Public to view and interact with the dashboard.
 The dataset is preloaded in the workbook. To replicate, ensure your dataset includes:  
 
   - ***Vehicle details*** (make, model, model year, EV type)  
-
   - ***Geographic data*** (state)  
-
   - ***Performance metrics*** (electric range)  
-
   - ***Eligibility data*** (CAFV eligibility status)
 
 ---
