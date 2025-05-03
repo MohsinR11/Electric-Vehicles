@@ -5,6 +5,7 @@
 
 Welcome to the Electric Vehicle Data Analysis dashboard! 🔋 This Tableau project provides a comprehensive analysis of electric vehicle (EV) data, focusing on vehicle distribution, range, eligibility for Clean Alternative Fuel Vehicle (CAFV) incentives, and more. It tracks 1,50,413 vehicles across various makes, models, states, and years, offering insights through dynamic visualizations. 📊
 
+---
 
 ## 🔑 Key Metrics
 
@@ -16,12 +17,13 @@ Welcome to the Electric Vehicle Data Analysis dashboard! 🔋 This Tableau proje
 
 🔋 Total PHEV Vehicles: 33,668 (22.38% of total)
 
+---
 
 ## 🛠️ Dashboard Features
 
 The dashboard is designed to help you explore EV data with ease. Use the filters to customize your analysis and uncover trends in the electric vehicle market! 🔍
 
-📊 Visualizations
+## 📊 Visualizations
 
 
 ### 1. Total Vehicles by Model Year 📅  
@@ -58,14 +60,15 @@ Table listing the top models with their make, EV type, vehicle count, and percen
 
 🔝 Top Model: Tesla Model 3 leads with 27,708 vehicles (18.42%), followed by Tesla Model Y with 20,901.
 
+---
 
+## 🎨 Screenshot:
 
-🎨 Screenshots
 Here’s a glimpse of the dashboard! 🖼️  
 
 ![image](https://github.com/user-attachments/assets/f3b8d214-b0e8-459f-ac78-681fac2998fb)
 
-
+---
 
 ## 🧩 Filters
 
@@ -79,6 +82,7 @@ Customize your analysis with these filters:
 
 ✅ CAFV Eligibility: All, Eligible, Not Eligible, or Eligibility Unknown
 
+---
 
 ## 🚀 Usage
 
@@ -88,6 +92,7 @@ Apply Filters: Use the dropdowns to filter by Model, EV Type, State, or CAFV Eli
 
 Interact: Hover over charts for details or click to drill down. 🖱️
 
+---
 
 ## ⚙️ Requirements
 
@@ -103,8 +108,18 @@ The dataset is preloaded in the workbook. To replicate, ensure your dataset incl
 
   - Eligibility data (CAFV eligibility status)
 
-
+---
 
 ## 🤝 Contributing
 
 Love this dashboard? Fork the repo, enhance it, and submit a pull request! 💡 Suggestions for new visualizations or metrics are always welcome.  
+
+---
+
+## 🌟 About Me
+
+Hi there! I'm **Mohsin Raza**. I’m an aspiring Data Analyst/Data Engineer.
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin--raza/)
